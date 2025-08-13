@@ -1,0 +1,956 @@
+Year,Category,PerUnit,Species,AvgPrice,MinPrice,MaxPrice,NumReports
+2000,Biomass,ton,All Species,1,0.2,6,132
+2000,Boltwood,cord,Ash,39,14,55,19
+2000,Boltwood,cord,Aspen/Poplar,31,12,50,13
+2000,Boltwood,cord,Beech,47,30,70,5
+2000,Boltwood,cord,Cedar,16,2,55,122
+2000,Boltwood,cord,Mixed Hardwood,23,10,60,5
+2000,Boltwood,cord,Red Oak,39,20,65,11
+2000,Boltwood,cord,Red/White Maple,31,15,57,13
+2000,Boltwood,cord,Sugar Maple,44,25,75,20
+2000,Boltwood,cord,White Birch,55,23.5,135,182
+2000,Boltwood,cord,Yellow Birch,57,17.5,120,30
+2000,Firewood,cord,All Species,11,5,23,321
+2000,Palletwood,MBF,All Species,49,15,115,777
+2000,Pulpwood,cord,Aspen/Poplar,9,1.8,30,433
+2000,Pulpwood,cord,Hemlock,11,2.31,35,437
+2000,Pulpwood,cord,Mixed Hardwood,10,2.33,35,44
+2000,Pulpwood,cord,Mixed Softwoods,11,1.15,41,82
+2000,Pulpwood,cord,Other Hardwood,9,1.25,50,844
+2000,Pulpwood,cord,Other Softwoods,9,2.17,25,47
+2000,Pulpwood,cord,Red Pine,9,4,28,18
+2000,Pulpwood,cord,Spruce & Fir,21,3.15,68,603
+2000,Pulpwood,cord,White Pine,6,1.5,37,592
+2000,Sawlogs,MBF,Ash,127,25,300,267
+2000,Sawlogs,MBF,Aspen/Poplar,53,19,165,185
+2000,Sawlogs,MBF,Beech,55,14,175,106
+2000,Sawlogs,MBF,Cedar,59,25.8,110,61
+2000,Sawlogs,MBF,Hemlock,58,20,175,421
+2000,Sawlogs,MBF,Mixed Hardwood,141,20,1000,178
+2000,Sawlogs,MBF,mixed soft/hard wood,102,30,265,13
+2000,Sawlogs,MBF,Mixed Softwoods,107,30,211,16
+2000,Sawlogs,MBF,Other Hardwood,119,20,252,53
+2000,Sawlogs,MBF,Other Softwoods,85,15,426,28
+2000,Sawlogs,MBF,Red Oak,245,25.37,750,373
+2000,Sawlogs,MBF,Red Pine,58,10,170,84
+2000,Sawlogs,MBF,Red/White Maple,80,15,480,324
+2000,Sawlogs,MBF,Spruce & Fir,130,20,204,601
+2000,Sawlogs,MBF,Sugar Maple,187,30,400,254
+2000,Sawlogs,MBF,White Birch,137,21.75,278,375
+2000,Sawlogs,MBF,White Oak,190,20,455,58
+2000,Sawlogs,MBF,White Pine,143,25,275,901
+2000,Sawlogs,MBF,Yellow Birch,122,40,300,208
+2000,Studwood,ton,All Species,18,1.25,36,375
+2000,Veneer,MBF,Ash,259,115,700,15
+2000,Veneer,MBF,Aspen/Poplar,73,24,135,91
+2000,Veneer,MBF,Mixed Hardwood,387,140,842,15
+2000,Veneer,MBF,Other Hardwood,245,75.01,625,4
+2000,Veneer,MBF,Red Oak,575,80,1450,195
+2000,Veneer,MBF,Sugar Maple,548,115,1410,53
+2000,Veneer,MBF,White Birch,336,55,715,70
+2000,Veneer,MBF,White Oak,487,100,905,12
+2000,Veneer,MBF,Yellow Birch,341,95,777,65
+2001,Biomass,ton,All Species,1,0.43,6,157
+2001,Boltwood,cord,Ash,39,25,50,9
+2001,Boltwood,cord,Aspen/Poplar,30,10,50,13
+2001,Boltwood,cord,Cedar,18,3.14,54,77
+2001,Boltwood,cord,Mixed Hardwood,17,8,60,14
+2001,Boltwood,cord,mixed soft/hard wood,43,30,58,4
+2001,Boltwood,cord,Red Oak,60,40,100,9
+2001,Boltwood,cord,Red/White Maple,31,20,39,4
+2001,Boltwood,cord,Sugar Maple,55,20,85,18
+2001,Boltwood,cord,White Birch,59,12,260,147
+2001,Boltwood,cord,Yellow Birch,35,12.5,80,22
+2001,Firewood,cord,All Species,10,2.5,21,397
+2001,Palletwood,MBF,All Species,49,10,184,683
+2001,Pulpwood,cord,Aspen/Poplar,9,1.8,27,378
+2001,Pulpwood,cord,Hemlock,11,2,32,436
+2001,Pulpwood,cord,Mixed Hardwood,9,2.4,36,741
+2001,Pulpwood,cord,mixed soft/hard wood,8,1.35,29,28
+2001,Pulpwood,cord,Mixed Softwoods,11,2.3,35,61
+2001,Pulpwood,cord,Other Softwoods,11,2.15,20,33
+2001,Pulpwood,cord,Red Pine,6,4,15,14
+2001,Pulpwood,cord,Spruce & Fir,20,2.1,60,530
+2001,Pulpwood,cord,White Pine,7,1.2,33,595
+2001,Sawlogs,MBF,Ash,118,20,295,223
+2001,Sawlogs,MBF,Aspen/Poplar,47,20,110,131
+2001,Sawlogs,MBF,Beech,54,15,190,84
+2001,Sawlogs,MBF,Cedar,66,20,138,50
+2001,Sawlogs,MBF,Hemlock,56,20,145,351
+2001,Sawlogs,MBF,Mixed Hardwood,134,16,459,172
+2001,Sawlogs,MBF,mixed soft/hard wood,161,35,603,20
+2001,Sawlogs,MBF,Mixed Softwoods,102,50,170,13
+2001,Sawlogs,MBF,Other Hardwood,111,20,533,45
+2001,Sawlogs,MBF,Other Softwoods,63,25,130,18
+2001,Sawlogs,MBF,Red Oak,218,32,650,343
+2001,Sawlogs,MBF,Red Pine,83,25,180,79
+2001,Sawlogs,MBF,Red/White Maple,77,25,310,259
+2001,Sawlogs,MBF,Spruce & Fir,114,20,265,516
+2001,Sawlogs,MBF,Sugar Maple,198,21.5,400,199
+2001,Sawlogs,MBF,White Birch,111,20,375,326
+2001,Sawlogs,MBF,White Oak,179,25,670,36
+2001,Sawlogs,MBF,White Pine,146,20,350,866
+2001,Sawlogs,MBF,Yellow Birch,129,25,950,167
+2001,Studwood,ton,All Species,19,2.5,70,226
+2001,Veneer,MBF,Ash,235,100,615,20
+2001,Veneer,MBF,Aspen/Poplar,83,50,160,45
+2001,Veneer,MBF,Mixed Hardwood,392,155,804,17
+2001,Veneer,MBF,Other Hardwood,235,100,490,5
+2001,Veneer,MBF,Red Oak,477,150,1300,161
+2001,Veneer,MBF,Red/White Maple,149,50,450,14
+2001,Veneer,MBF,Sugar Maple,511,227.16,1110,39
+2001,Veneer,MBF,White Birch,358,84.72,1100,61
+2001,Veneer,MBF,White Oak,428,365,521,5
+2001,Veneer,MBF,Yellow Birch,344,100,959,52
+2002,Biomass,ton,All Species,1,0.03,5,183
+2002,Boltwood,cord,Ash,50,25,90,8
+2002,Boltwood,cord,Aspen/Poplar,32,8,40,10
+2002,Boltwood,cord,Beech,38,25,65,5
+2002,Boltwood,cord,Cedar,21,9.6,40,21
+2002,Boltwood,cord,Mixed Hardwood,41,15,95,5
+2002,Boltwood,cord,mixed soft/hard wood,47,30,50,4
+2002,Boltwood,cord,Red Oak,49,40,50,6
+2002,Boltwood,cord,Red/White Maple,37,25,50,5
+2002,Boltwood,cord,Sugar Maple,52,30,95,17
+2002,Boltwood,cord,White Birch,53,20,125,126
+2002,Boltwood,cord,Yellow Birch,48,22.5,100,18
+2002,Firewood,cord,All Species,10,2.75,25,307
+2002,Palletwood,MBF,All Species,43,3,150,707
+2002,Pulpwood,cord,Aspen/Poplar,8,1.75,28,383
+2002,Pulpwood,cord,Hemlock,10,2.1,35,375
+2002,Pulpwood,cord,Mixed Hardwood,9,0.7,22,721
+2002,Pulpwood,cord,mixed soft/hard wood,9,1.35,19,25
+2002,Pulpwood,cord,Mixed Softwoods,11,2,28,79
+2002,Pulpwood,cord,Other Softwoods,12,2.37,35,109
+2002,Pulpwood,cord,Red Pine,7,2,13,21
+2002,Pulpwood,cord,Spruce & Fir,18,1.85,55,508
+2002,Pulpwood,cord,White Pine,7,1,22,536
+2002,Sawlogs,MBF,Ash,111,25,422,242
+2002,Sawlogs,MBF,Aspen/Poplar,49,6.84,220,163
+2002,Sawlogs,MBF,Beech,62,15,250,74
+2002,Sawlogs,MBF,Cedar,65,26,135,60
+2002,Sawlogs,MBF,Hemlock,54,2.5,180,334
+2002,Sawlogs,MBF,Mixed Hardwood,148,16.67,392,162
+2002,Sawlogs,MBF,mixed soft/hard wood,87,5,230,24
+2002,Sawlogs,MBF,Mixed Softwoods,101,25,215,17
+2002,Sawlogs,MBF,Other Hardwood,115,4.68,500,61
+2002,Sawlogs,MBF,Other Softwoods,47,20,150,21
+2002,Sawlogs,MBF,Red Oak,230,25,648,363
+2002,Sawlogs,MBF,Red Pine,73,15,200,105
+2002,Sawlogs,MBF,Red/White Maple,78,14.36,280,289
+2002,Sawlogs,MBF,Spruce & Fir,113,10,235,529
+2002,Sawlogs,MBF,Sugar Maple,168,2.5,500,201
+2002,Sawlogs,MBF,White Birch,119,5,278,334
+2002,Sawlogs,MBF,White Oak,166,30,423,43
+2002,Sawlogs,MBF,White Pine,146,6.67,405,792
+2002,Sawlogs,MBF,Yellow Birch,125,20,462,215
+2002,Studwood,ton,All Species,14,2,34,196
+2002,Veneer,MBF,Ash,307,68.75,900,17
+2002,Veneer,MBF,Aspen/Poplar,79,40,160,52
+2002,Veneer,MBF,Mixed Hardwood,361,144,800,17
+2002,Veneer,MBF,Other Hardwood,521,35,1000,4
+2002,Veneer,MBF,Red Oak,518,150,1220,161
+2002,Veneer,MBF,Red/White Maple,183,50,1180,29
+2002,Veneer,MBF,Sugar Maple,489,150,1600,44
+2002,Veneer,MBF,White Birch,367,90,993,82
+2002,Veneer,MBF,White Oak,308,100,600,11
+2002,Veneer,MBF,Yellow Birch,456,48,1098,52
+2003,Biomass,ton,All Species,1,0.14,6,186
+2003,Boltwood,cord,Ash,58,12,120,7
+2003,Boltwood,cord,Aspen/Poplar,12,10,18,9
+2003,Boltwood,cord,Cedar,24,12,50,18
+2003,Boltwood,cord,Mixed Hardwood,27,9,45,7
+2003,Boltwood,cord,mixed soft/hard wood,9,5,15,4
+2003,Boltwood,cord,Red Oak,59,25,65,6
+2003,Boltwood,cord,Red/White Maple,41,32.5,50,5
+2003,Boltwood,cord,Sugar Maple,55,15,95,9
+2003,Boltwood,cord,White Birch,52,6,125,122
+2003,Boltwood,cord,Yellow Birch,40,22.5,75,16
+2003,Firewood,cord,All Species,12,1,40,368
+2003,Palletwood,MBF,All Species,51,5,147,656
+2003,Pulpwood,cord,Aspen/Poplar,12,1.8,38,358
+2003,Pulpwood,cord,Cedar,16,3.98,40,68
+2003,Pulpwood,cord,Hemlock,11,1.2,34,383
+2003,Pulpwood,cord,Mixed Hardwood,11,1,40,724
+2003,Pulpwood,cord,mixed soft/hard wood,15,2.7,43,31
+2003,Pulpwood,cord,Mixed Softwoods,11,1.15,28,87
+2003,Pulpwood,cord,Other Softwoods,11,2.15,30,21
+2003,Pulpwood,cord,Red Pine,10,4.3,22,19
+2003,Pulpwood,cord,Spruce & Fir,16,0.53,54,519
+2003,Pulpwood,cord,White Pine,6,0.52,41,515
+2003,Sawlogs,MBF,Ash,123,25,300,254
+2003,Sawlogs,MBF,Aspen/Poplar,53,5,155,143
+2003,Sawlogs,MBF,Beech,65,20,160,78
+2003,Sawlogs,MBF,Cedar,65,14.35,125,46
+2003,Sawlogs,MBF,Hemlock,56,11,140,318
+2003,Sawlogs,MBF,Mixed Hardwood,180,4,655,195
+2003,Sawlogs,MBF,mixed soft/hard wood,80,20,150,12
+2003,Sawlogs,MBF,Mixed Softwoods,75,12.19,150,24
+2003,Sawlogs,MBF,Other Hardwood,117,22,575,69
+2003,Sawlogs,MBF,Other Softwoods,88,15,200,16
+2003,Sawlogs,MBF,Red Oak,265,30,900,365
+2003,Sawlogs,MBF,Red Pine,92,20,200,93
+2003,Sawlogs,MBF,Red/White Maple,103,25,340,326
+2003,Sawlogs,MBF,Spruce & Fir,113,35,200,485
+2003,Sawlogs,MBF,Sugar Maple,232,25,"1,100",293
+2003,Sawlogs,MBF,White Birch,127,20,386,315
+2003,Sawlogs,MBF,White Oak,248,20,620,55
+2003,Sawlogs,MBF,White Pine,156,15,420,845
+2003,Sawlogs,MBF,Yellow Birch,153,20,470,253
+2003,Studwood,ton,All Species,17,0.4,57,265
+2003,Veneer,MBF,Ash,255,150,450,15
+2003,Veneer,MBF,Aspen/Poplar,100,15,375,74
+2003,Veneer,MBF,Mixed Hardwood,494,147.58,873,19
+2003,Veneer,MBF,Red Oak,541,60,"1,150",173
+2003,Veneer,MBF,Red/White Maple,197,40,600,28
+2003,Veneer,MBF,Sugar Maple,677,160,"2,480",79
+2003,Veneer,MBF,White Birch,460,80,"1,000",87
+2003,Veneer,MBF,White Oak,550,100,850,13
+2003,Veneer,MBF,Yellow Birch,600,110,"1,350",94
+2004,Biomass,ton,All Species,1.36,0.11,6,214
+2004,Boltwood,MBF,Ash,86,40,140,6
+2004,Boltwood,MBF,Beech,75,50,100,6
+2004,Boltwood,MBF,Cedar,39,24,120,12
+2004,Boltwood,MBF,Red Oak,61,50,92,4
+2004,Boltwood,MBF,Sugar Maple,114,36,250,14
+2004,Boltwood,MBF,White Birch,124,24,270,122
+2004,Boltwood,MBF,Yellow Birch,89,40,158,15
+2004,Firewood,cord,All Species,15,1,43,344
+2004,Palletwood,MBF,All Species,53,4,180,692
+2004,Pulpwood,ton,Aspen/Poplar,9,1,27,456
+2004,Pulpwood,ton,Cedar,11,4,21,99
+2004,Pulpwood,ton,Hemlock,5,0,17,430
+2004,Pulpwood,ton,Mixed Hardwood,6,1,19,888
+2004,Pulpwood,ton,mixed soft/hard wood,5,1,14,32
+2004,Pulpwood,ton,Mixed Softwoods,6,1,21,102
+2004,Pulpwood,ton,Other Softwoods,6,1,13,29
+2004,Pulpwood,ton,Red Pine,4,1,9,14
+2004,Pulpwood,ton,Spruce & Fir,10,1,31,560
+2004,Pulpwood,ton,White Pine,4,0,16,605
+2004,Sawlog,MBF,Ash,118,10,350,269
+2004,Sawlog,MBF,Aspen/Poplar,67,10,166,116
+2004,Sawlog,MBF,Beech,90,25,175,70
+2004,Sawlog,MBF,Cedar,61,10,135,51
+2004,Sawlog,MBF,Hemlock,63,10,160,311
+2004,Sawlog,MBF,Mixed Hardwood,198,10,581,193
+2004,Sawlog,MBF,mixed soft/hard wood,119,40,325,19
+2004,Sawlog,MBF,Mixed Softwoods,110,10,280,11
+2004,Sawlog,MBF,Other Hardwood,165,15,666,77
+2004,Sawlog,MBF,Other Softwoods,86,25,160,22
+2004,Sawlog,MBF,Red Oak,304,35,780,386
+2004,Sawlog,MBF,Red Pine,71,15,300,92
+2004,Sawlog,MBF,Red/White Maple,121,15,450,345
+2004,Sawlog,MBF,Spruce & Fir,129,4,290,541
+2004,Sawlog,MBF,Sugar Maple,247,24,550,298
+2004,Sawlog,MBF,White Birch,129,20,900,332
+2004,Sawlog,MBF,White Oak,181,4,450,46
+2004,Sawlog,MBF,White Pine,170,15,450,870
+2004,Sawlog,MBF,Yellow Birch,185,15,475,251
+2004,Studwood,ton,All Species,22,2,75,282
+2004,Veneer,MBF,Ash,221,40,400,15
+2004,Veneer,MBF,Aspen/Poplar,78,40,150,63
+2004,Veneer,MBF,Mixed Hardwood,301,80,648,16
+2004,Veneer,MBF,Other Hardwood,267,70,500,8
+2004,Veneer,MBF,Red Oak,571,120,2075,176
+2004,Veneer,MBF,Red/White Maple,341,60,800,28
+2004,Veneer,MBF,Sugar Maple,562,100,2000,72
+2004,Veneer,MBF,White Birch,470,95,1000,88
+2004,Veneer,MBF,White Oak,407,288,500,5
+2004,Veneer,MBF,Yellow Birch,519,125,1363,87
+2005,Biomass,ton,All Species,1.7,0.16,8.5,287
+2005,Boltwood,MBF,Aspen/Poplar,38,30,60,5
+2005,Boltwood,MBF,Cedar,53,20,100,14
+2005,Boltwood,MBF,Sugar Maple,117,20,150,5
+2005,Boltwood,MBF,White Birch,129,20,260,99
+2005,Firewood,cord,All Species,15,2,67,351
+2005,Palletwood,MBF,All Species,57,5,150,580
+2005,Pulpwood,ton,Aspen/Poplar,8,1,25,416
+2005,Pulpwood,ton,Cedar,13,1,20,76
+2005,Pulpwood,ton,Hemlock,7,1,18,465
+2005,Pulpwood,ton,Mixed Hardwood,7,1,25,830
+2005,Pulpwood,ton,Red Pine,7,1,10,14
+2005,Pulpwood,ton,Spruce & Fir,14,1,33,523
+2005,Pulpwood,ton,White Pine,4,1,16,558
+2005,Sawlogs,MBF,Ash,129,20,390,298
+2005,Sawlogs,MBF,Aspen/Poplar,83,23,137,107
+2005,Sawlogs,MBF,Beech,81,22,175,107
+2005,Sawlogs,MBF,Cedar,80,20,150,48
+2005,Sawlogs,MBF,Hemlock,62,20,200,341
+2005,Sawlogs,MBF,Red Oak,285,35,725,338
+2005,Sawlogs,MBF,Red Pine,74,20,150,113
+2005,Sawlogs,MBF,Red/White Maple,117,25,342,358
+2005,Sawlogs,MBF,Spruce & Fir,161,21,275,570
+2005,Sawlogs,MBF,Sugar Maple,287,25,658,291
+2005,Sawlogs,MBF,White Birch,122,25,500,325
+2005,Sawlogs,MBF,White Oak,148,20,338,49
+2005,Sawlogs,MBF,White Pine,184,25,395,901
+2005,Sawlogs,MBF,Yellow Birch,190,35,411,264
+2005,Studwood,ton,All Species,25,1,54,479
+2005,Veneer,MBF,Aspen/Poplar,91,30,160,81
+2005,Veneer,MBF,Red Oak,561,175,1110,136
+2005,Veneer,MBF,Red/White Maple,206,120,681,22
+2005,Veneer,MBF,Sugar Maple,536,60,986,72
+2005,Veneer,MBF,White Birch,387,125,891,70
+2005,Veneer,MBF,Yellow Birch,476,90,943,72
+2006,Biomass,ton,All Species,2.15,0.2,6.5,372
+2006,Boltwood,MBF,Sugar Maple,114,43,300,10
+2006,Boltwood,MBF,White Birch,113,20,200,145
+2006,Firewood,cord,All Species,18,2,155,446
+2006,Palletwood,MBF,All Species,59,6,275,667
+2006,Pulpwood,ton,Aspen/Poplar,8,2,33,484
+2006,Pulpwood,ton,Cedar,13,1,25,87
+2006,Pulpwood,ton,Hemlock,7,0,25,510
+2006,Pulpwood,ton,Mixed Hardwood,7,0,29,835
+2006,Pulpwood,ton,Red Pine,5,2,14,14
+2006,Pulpwood,ton,Spruce & Fir,11,0,56,587
+2006,Pulpwood,ton,White Pine,4,1,21,596
+2006,Sawlogs,MBF,Ash,148,25,400,314
+2006,Sawlogs,MBF,Aspen/Poplar,80,10,158,90
+2006,Sawlogs,MBF,Beech,87,20,450,75
+2006,Sawlogs,MBF,Cedar,75,15,191,45
+2006,Sawlogs,MBF,Hemlock,63,20,225,345
+2006,Sawlogs,MBF,Red Oak,249,10,650,342
+2006,Sawlogs,MBF,Red Pine,82,20,350,119
+2006,Sawlogs,MBF,Red/White Maple,121,20,400,414
+2006,Sawlogs,MBF,Spruce & Fir,140,17,300,542
+2006,Sawlogs,MBF,Sugar Maple,247,35,725,333
+2006,Sawlogs,MBF,White Birch,127,10,475,334
+2006,Sawlogs,MBF,White Oak,167,20,500,54
+2006,Sawlogs,MBF,White Pine,194,14,376,923
+2006,Sawlogs,MBF,Yellow Birch,173,25,533,322
+2006,Studwood,ton,Other Species,13,2,50,213
+2006,Studwood,ton,Spruce & Fir,32,2,58,292
+2006,Veneer,MBF,Aspen/Poplar,101,35,200,64
+2006,Veneer,MBF,Red Oak,578,50,1010,139
+2006,Veneer,MBF,Red/White Maple,188,50,860,20
+2006,Veneer,MBF,Sugar Maple,385,186,1200,98
+2006,Veneer,MBF,White Birch,479,70,975,80
+2006,Veneer,MBF,Yellow Birch,499,202,960,108
+2007,Biomass,ton,All Species,2.42,0.5,6,481
+2007,Boltwood,MBF,Sugar Maple,73,40,450,4
+2007,Boltwood,MBF,White Birch,98,25,220,115
+2007,Firewood,cord,All Species,19,5,38,447
+2007,Palletwood,MBF,All Species,53,5,190,675
+2007,Pulpwood,ton,Aspen/Poplar,9,0.4,22,485
+2007,Pulpwood,ton,Cedar,15,2,27,79
+2007,Pulpwood,ton,Hemlock,7,0.4,20,516
+2007,Pulpwood,ton,Mixed Hardwood,6,0.4,19,867
+2007,Pulpwood,ton,Red Pine,5,2,21,24
+2007,Pulpwood,ton,Spruce & Fir,12,1,28,605
+2007,Pulpwood,ton,White Pine,4,0.38,20,594
+2007,Sawlogs,MBF,Ash,150,15,360,316
+2007,Sawlogs,MBF,Aspen/Poplar,59,8,193,73
+2007,Sawlogs,MBF,Beech,66,25,190,78
+2007,Sawlogs,MBF,Cedar,70,10,190,60
+2007,Sawlogs,MBF,Hemlock,71,25,200,332
+2007,Sawlogs,MBF,Red Oak,251,25,610,368
+2007,Sawlogs,MBF,Red Pine,72,21,200,100
+2007,Sawlogs,MBF,Red/White Maple,111,25,311,392
+2007,Sawlogs,MBF,Spruce & Fir,131,30,326,567
+2007,Sawlogs,MBF,Sugar Maple,222,10,834,358
+2007,Sawlogs,MBF,White Birch,119,15,345,326
+2007,Sawlogs,MBF,White Oak,145,40,510,47
+2007,Sawlogs,MBF,White Pine,181,10,388,1021
+2007,Sawlogs,MBF,Yellow Birch,150,23,425,309
+2007,Studwood,ton,Other Species,10,2,96,171
+2007,Studwood,ton,Spruce & Fir,29,2,50,247
+2007,Veneer,MBF,Aspen/Poplar,133,35,178,58
+2007,Veneer,MBF,Red Oak,534,163,966,149
+2007,Veneer,MBF,Red/White Maple,379,140,765,13
+2007,Veneer,MBF,Sugar Maple,617,278,991,91
+2007,Veneer,MBF,White Birch,459,200,850,82
+2007,Veneer,MBF,Yellow Birch,558,230,918,102
+2008,Biomass,ton,All Species,2.7,0.1,14,667
+2008,Boltwood,MBF,Sugar Maple,120,80,150,6
+2008,Boltwood,MBF,White Birch,106,35,191,103
+2008,Boltwood,MBF,Yellow Birch,66,35,178,26
+2008,Firewood,cord,All Species,22,1,67,602
+2008,Palletwood,MBF,All Species,71,6,225,675
+2008,Pulpwood,ton,Aspen/Poplar,13,1,41,514
+2008,Pulpwood,ton,Cedar,16,0.84,25,75
+2008,Pulpwood,ton,Hemlock,5,0.3,35,638
+2008,Pulpwood,ton,Mixed Hardwood,11,0.28,32,1093
+2008,Pulpwood,ton,Red Pine,8,1,20,23
+2008,Pulpwood,ton,Spruce & Fir,12,0.84,38,759
+2008,Pulpwood,ton,White Pine,4,0.44,24,630
+2008,Sawlogs,MBF,Ash,150,13,600,440
+2008,Sawlogs,MBF,Aspen/Poplar,106,15,282,76
+2008,Sawlogs,MBF,Beech,59,10,262,80
+2008,Sawlogs,MBF,Cedar,83,20,181,98
+2008,Sawlogs,MBF,Hemlock,70,5,220,320
+2008,Sawlogs,MBF,Red Oak,248,26,586,383
+2008,Sawlogs,MBF,Red Pine,74,10,225,93
+2008,Sawlogs,MBF,Red/White Maple,126,25,632,516
+2008,Sawlogs,MBF,Spruce & Fir,134,10,300,597
+2008,Sawlogs,MBF,Sugar Maple,189,13,632,508
+2008,Sawlogs,MBF,White Birch,115,15,449,415
+2008,Sawlogs,MBF,White Oak,181,10,328,46
+2008,Sawlogs,MBF,White Pine,172,10,499,988
+2008,Sawlogs,MBF,Yellow Birch,150,1,660,458
+2008,Studwood,ton,Other Species,16,1,50,173
+2008,Studwood,ton,Spruce & Fir,26,2,69,381
+2008,Veneer,MBF,Aspen/Poplar,117,20,232,67
+2008,Veneer,MBF,Red Oak,560,120,1000,190
+2008,Veneer,MBF,Red/White Maple,489,150,800,5
+2008,Veneer,MBF,Sugar Maple,600,200,2865,159
+2008,Veneer,MBF,White Birch,505,65,998,148
+2008,Veneer,MBF,Yellow Birch,582,38,990,176
+2009,Biomass,ton,All Species,2.99,0.15,10.25,709
+2009,Boltwood,MBF,Sugar Maple,123,30,135,61
+2009,Boltwood,MBF,White Birch,138,25,211,170
+2009,Boltwood,MBF,Yellow Birch,112,35,190,87
+2009,Firewood,cord,All Species,19,2,50,660
+2009,Palletwood,MBF,Hardwood,63,3,128,306
+2009,Palletwood,MBF,Softwood,68,5,150,284
+2009,Pulpwood,ton,Aspen/Poplar,9,0.52,23,391
+2009,Pulpwood,ton,Cedar,16,0.3,33,74
+2009,Pulpwood,ton,Hemlock,7,0.42,18,605
+2009,Pulpwood,ton,Mixed Hardwood,8,0.64,22,905
+2009,Pulpwood,ton,Red Pine,5,1,12,32
+2009,Pulpwood,ton,Spruce & Fir,13,0.58,29,677
+2009,Pulpwood,ton,White Pine,4,0.24,12,567
+2009,Sawlog,MBF,Ash,161,15,368,335
+2009,Sawlog,MBF,Aspen/Poplar,75,20,175,36
+2009,Sawlog,MBF,Beech,82,10,175,40
+2009,Sawlog,MBF,Cedar,96,25,125,78
+2009,Sawlog,MBF,Hemlock,70,6,175,342
+2009,Sawlog,MBF,Red Oak,202,20,515,299
+2009,Sawlog,MBF,Red Pine,66,10,195,81
+2009,Sawlog,MBF,Red/White Maple,110,10,225,406
+2009,Sawlog,MBF,Spruce & Fir,123,20,239,561
+2009,Sawlog,MBF,Sugar Maple,172,10,450,452
+2009,Sawlog,MBF,White Birch,128,5,253,337
+2009,Sawlog,MBF,White Oak,144,20,275,33
+2009,Sawlog,MBF,White Pine,169,20,350,867
+2009,Sawlog,MBF,Yellow Birch,186,20,397,406
+2009,Studwood,ton,Other Species,11,1,30,172
+2009,Studwood,ton,Spruce & Fir,22,2,43,268
+2009,Veneer,MBF,Aspen/Poplar,110,64,179,30
+2009,Veneer,MBF,Red Oak,458,125,900,154
+2009,Veneer,MBF,Red/White Maple,227,60,782,15
+2009,Veneer,MBF,Sugar Maple,614,175,1005,222
+2009,Veneer,MBF,White Birch,458,226,900,101
+2009,Veneer,MBF,Yellow Birch,584,200,942,229
+2010,Biomass,ton,All Species,3.84,0.05,10,722
+2010,Boltwood,MBF,Cedar,46,40,132,7
+2010,Boltwood,MBF,Sugar Maple,105,26,158,20
+2010,Boltwood,MBF,White Birch,132,30,222,170
+2010,Boltwood,MBF,Yellow Birch,57,24,190,58
+2010,Firewood,cord,All Species,21,3,50,604
+2010,Palletwood,MBF,Hardwood,60,1,175,406
+2010,Palletwood,MBF,Softwood,67,2,130,364
+2010,Pulpwood,ton,Aspen/Poplar,11,0.2,27,549
+2010,Pulpwood,ton,Cedar,16,0.3,20,85
+2010,Pulpwood,ton,Hemlock,6,0.5,16,588
+2010,Pulpwood,ton,Mixed Hardwood,8,0.6,25,1221
+2010,Pulpwood,ton,Red Pine,4,1,8,27
+2010,Pulpwood,ton,Spruce & Fir,11,0.22,40,779
+2010,Pulpwood,ton,White Pine,4,0.11,14,682
+2010,Sawlog,MBF,Ash,124,25,351,441
+2010,Sawlog,MBF,Aspen/Poplar,105,20,190,63
+2010,Sawlog,MBF,Beech,59,30,146,40
+2010,Sawlog,MBF,Cedar,76,10,187,59
+2010,Sawlog,MBF,Hemlock,69,3,165,345
+2010,Sawlog,MBF,Red Oak,242,45,650,452
+2010,Sawlog,MBF,Red Pine,72,13,239,89
+2010,Sawlog,MBF,Red/White Maple,74,20,250,497
+2010,Sawlog,MBF,Spruce & Fir,105,15,300,586
+2010,Sawlog,MBF,Sugar Maple,154,40,530,504
+2010,Sawlog,MBF,White Birch,121,20,326,375
+2010,Sawlog,MBF,White Oak,120,13,250,48
+2010,Sawlog,MBF,White Pine,170,20,375,977
+2010,Sawlog,MBF,Yellow Birch,161,30,450,463
+2010,Studwood,ton,Other Species,12,3,45,231
+2010,Studwood,ton,Spruce & Fir,22,3,40,323
+2010,Veneer,MBF,Aspen/Poplar,122,70,250,40
+2010,Veneer,MBF,Red Oak,528,105,927,258
+2010,Veneer,MBF,Red/White Maple,294,40,533,18
+2010,Veneer,MBF,Sugar Maple,400,100,1000,228
+2010,Veneer,MBF,White Birch,478,90,798,155
+2010,Veneer,MBF,Yellow Birch,508,60,1000,272
+2011,Biomass,ton,All Species,2.43,0.1,10,689
+2011,Boltwood,MBF,Cedar,46,20,120,5
+2011,Boltwood,MBF,Sugar Maple,102,40,159,20
+2011,Boltwood,MBF,White Birch,128,20,215,189
+2011,Boltwood,MBF,Yellow Birch,121,40,205,62
+2011,Firewood,cord,All Species,21,4,51,686
+2011,Palletwood,MBF,Hardwood,69,5,180,402
+2011,Palletwood,MBF,Softwood,78,4,150,409
+2011,Pulpwood,ton,Aspen/Poplar,11,1,27,599
+2011,Pulpwood,ton,Cedar,13,0.5,25,107
+2011,Pulpwood,ton,Hemlock,6,0.38,15,712
+2011,Pulpwood,ton,Mixed Hardwood,10,0.6,22,1290
+2011,Pulpwood,ton,Red Pine,8,2,14,41
+2011,Pulpwood,ton,Spruce & Fir,13,0.4,33,870
+2011,Pulpwood,ton,White Pine,4,0.38,13,803
+2011,Sawlog,MBF,Ash,165,20,350,439
+2011,Sawlog,MBF,Aspen/Poplar,107,20,178,65
+2011,Sawlog,MBF,Beech,93,12,200,44
+2011,Sawlog,MBF,Cedar,121,13,188,83
+2011,Sawlog,MBF,Hemlock,73,20,170,404
+2011,Sawlog,MBF,Red Oak,211,47,550,421
+2011,Sawlog,MBF,Red Pine,54,10,200,94
+2011,Sawlog,MBF,Red/White Maple,123,17,300,518
+2011,Sawlog,MBF,Spruce & Fir,141,17,300,605
+2011,Sawlog,MBF,Sugar Maple,186,25,535,493
+2011,Sawlog,MBF,White Birch,127,30,495,446
+2011,Sawlog,MBF,White Oak,148,20,350,42
+2011,Sawlog,MBF,White Pine,172,19,430,1064
+2011,Sawlog,MBF,Yellow Birch,191,38,480,466
+2011,Studwood,ton,Other Species,14,2,50,223
+2011,Studwood,ton,Spruce & Fir,27,4,46,387
+2011,Veneer,MBF,Aspen/Poplar,133,55,250,25
+2011,Veneer,MBF,Red Oak,504,100,1160,208
+2011,Veneer,MBF,Red/White Maple,225,55,800,18
+2011,Veneer,MBF,Sugar Maple,501,100,1166,201
+2011,Veneer,MBF,White Birch,486,100,965,198
+2011,Veneer,MBF,Yellow Birch,643,100,976,224
+2012,Biomass,ton,All Species,2.08,0.4,8,794
+2012,Boltwood,MBF,Sugar Maple,159,40,239,44
+2012,Boltwood,MBF,White Birch,174,29,370,283
+2012,Boltwood,MBF,Yellow Birch,150,72,300,51
+2012,Firewood,cord,All Species,21,7,45,667
+2012,Palletwood,MBF,Hardwood,61,5,182,446
+2012,Palletwood,MBF,Softwood,54,9,155,415
+2012,Pulpwood,ton,Aspen/Poplar,12,2,27,648
+2012,Pulpwood,ton,Cedar,12,1,30,136
+2012,Pulpwood,ton,Hemlock,6,2,14,722
+2012,Pulpwood,ton,Mixed Hardwood,10,2,23,1437
+2012,Pulpwood,ton,Red Pine,6,0.46,12,31
+2012,Pulpwood,ton,Spruce & Fir,13,0.62,34,865
+2012,Pulpwood,ton,White Pine,4,2,11,788
+2012,Sawlog,MBF,Ash,173,45,400,456
+2012,Sawlog,MBF,Aspen/Poplar,139,50,282,38
+2012,Sawlog,MBF,Beech,85,4,235,41
+2012,Sawlog,MBF,Cedar,65,12,175,63
+2012,Sawlog,MBF,Hemlock,72,20,172,451
+2012,Sawlog,MBF,Red Oak,208,50,450,470
+2012,Sawlog,MBF,Red Pine,67,20,150,91
+2012,Sawlog,MBF,Red/White Maple,145,25,370,469
+2012,Sawlog,MBF,Spruce & Fir,116,20,235,591
+2012,Sawlog,MBF,Sugar Maple,221,50,451,522
+2012,Sawlog,MBF,White Birch,171,40,400,419
+2012,Sawlog,MBF,White Oak,162,20,355,59
+2012,Sawlog,MBF,White Pine,165,27,335,1103
+2012,Sawlog,MBF,Yellow Birch,225,50,502,475
+2012,Studwood,ton,Other Species,12,2,50,260
+2012,Studwood,ton,Spruce & Fir,25,2,41,470
+2012,Veneer,MBF,Aspen/Poplar,116,80,160,7
+2012,Veneer,MBF,Red Oak,485,127,1060,211
+2012,Veneer,MBF,Red/White Maple,478,100,750,14
+2012,Veneer,MBF,Sugar Maple,674,175,1500,247
+2012,Veneer,MBF,White Birch,529,145,1000,202
+2012,Veneer,MBF,Yellow Birch,731,150,1160,246
+2013,Biomass,ton,All Species,2.3,0.5,7,742
+2013,Boltwood,MBF,Sugar Maple,124,80,145,25
+2013,Boltwood,MBF,White Birch,149,34,241,245
+2013,Boltwood,MBF,Yellow Birch,117,74,184,47
+2013,Firewood,cord,All Species,21,6,36,635
+2013,Palletwood,MBF,Hardwood,84,15,180,434
+2013,Palletwood,MBF,Softwood,51,10,85,367
+2013,Pulpwood,ton,Aspen/Poplar,13,1,25,593
+2013,Pulpwood,ton,Cedar,8,3,20,104
+2013,Pulpwood,ton,Hemlock,5,2,11,679
+2013,Pulpwood,ton,Mixed Hardwood,10,2,26,1384
+2013,Pulpwood,ton,Red Pine,5,3,10,31
+2013,Pulpwood,ton,Spruce & Fir,13,3,28,870
+2013,Pulpwood,ton,White Pine,4,1,9,777
+2013,Sawlog,MBF,Ash,164,40,317,461
+2013,Sawlog,MBF,Aspen/Poplar,66,38,180,58
+2013,Sawlog,MBF,Beech,137,23,195,28
+2013,Sawlog,MBF,Cedar,65,20,163,87
+2013,Sawlog,MBF,Hemlock,70,31,150,429
+2013,Sawlog,MBF,Red Oak,237,85,434,466
+2013,Sawlog,MBF,Red Pine,53,12,129,79
+2013,Sawlog,MBF,Red/White Maple,122,23,285,500
+2013,Sawlog,MBF,Spruce & Fir,114,40,245,598
+2013,Sawlog,MBF,Sugar Maple,225,53,457,518
+2013,Sawlog,MBF,White Birch,141,50,314,409
+2013,Sawlog,MBF,White Oak,122,25,250,51
+2013,Sawlog,MBF,White Pine,161,43,290,1111
+2013,Sawlog,MBF,Yellow Birch,198,58,367,447
+2013,Studwood,ton,Other Species,13,2,30,236
+2013,Studwood,ton,Spruce & Fir,29,6,42,459
+2013,Veneer,MBF,Aspen/Poplar,130,83,175,7
+2013,Veneer,MBF,Red Oak,526,210,900,237
+2013,Veneer,MBF,Red/White Maple,398,100,500,11
+2013,Veneer,MBF,Sugar Maple,572,210,1204,221
+2013,Veneer,MBF,White Birch,486,175,843,188
+2013,Veneer,MBF,Yellow Birch,585,180,978,204
+2014,Biomass,ton,All Species,2.84,0.75,7.6,799
+2014,Boltwood,MBF,Sugar Maple,170,50,214,31
+2014,Boltwood,MBF,White Birch,161,26,279,241
+2014,Boltwood,MBF,Yellow Birch,156,49,190,47
+2014,Firewood,cord,All Species,24,8,43,659
+2014,Palletwood,MBF,Hardwood,40,20,234,415
+2014,Palletwood,MBF,Softwood,56,12,100,371
+2014,Pulpwood,ton,Aspen/Poplar,13,3,27,591
+2014,Pulpwood,ton,Cedar,12,4,23,115
+2014,Pulpwood,ton,Hemlock,6,2,12,629
+2014,Pulpwood,ton,Mixed Hardwood,11,3,24,"1,340"
+2014,Pulpwood,ton,Red Pine,4,4,9,18
+2014,Pulpwood,ton,Spruce & Fir,12,2,28,797
+2014,Pulpwood,ton,White Pine,4,1,12,684
+2014,Sawlog,MBF,Ash,179,50,309,461
+2014,Sawlog,MBF,Aspen/Poplar,122,40,200,54
+2014,Sawlog,MBF,Beech,97,20,165,26
+2014,Sawlog,MBF,Cedar,102,10,147,123
+2014,Sawlog,MBF,Hemlock,72,32,135,404
+2014,Sawlog,MBF,Red Oak,319,105,558,462
+2014,Sawlog,MBF,Red Pine,66,25,145,99
+2014,Sawlog,MBF,Red/White Maple,167,40,271,493
+2014,Sawlog,MBF,Spruce & Fir,206,37,276,543
+2014,Sawlog,MBF,Sugar Maple,291,57,504,466
+2014,Sawlog,MBF,White Birch,168,13,363,434
+2014,Sawlog,MBF,White Oak,173,35,336,59
+2014,Sawlog,MBF,White Pine,172,55,579,"1,053"
+2014,Sawlog,MBF,Yellow Birch,252,60,364,454
+2014,Studwood,ton,Other Species,10,2,28,194
+2014,Studwood,ton,Spruce & Fir,31,7,46,473
+2014,Veneer,MBF,Red Oak,568,246,930,277
+2014,Veneer,MBF,Red/White Maple,314,200,600,9
+2014,Veneer,MBF,Sugar Maple,823,204,"1,206",187
+2014,Veneer,MBF,White Birch,593,200,920,184
+2014,Veneer,MBF,Yellow Birch,723,200,975,177
+2015,Biomass,ton,All Species,2.94,0.25,12,718
+2015,Boltwood,MBF,Cedar,176,70,250,4
+2015,Boltwood,MBF,Sugar Maple,165,100,190,19
+2015,Boltwood,MBF,White Birch,157,25,347,247
+2015,Boltwood,MBF,Yellow Birch,130,38,189,26
+2015,Firewood,cord,All Species,26,4,58,648
+2015,Palletwood,MBF,Hardwood,108,10,298,480
+2015,Palletwood,MBF,Softwood,59,1,150,391
+2015,Pulpwood,ton,Aspen/Poplar,15,2,31,578
+2015,Pulpwood,ton,Cedar,12,1,25,122
+2015,Pulpwood,ton,Hemlock,6,0.8,19,631
+2015,Pulpwood,ton,Mixed Hardwood,12,1,35,1390
+2015,Pulpwood,ton,Red Pine,7,2,14,28
+2015,Pulpwood,ton,Spruce & Fir,12,1,33,697
+2015,Pulpwood,ton,White Pine,4,0.5,14,645
+2015,Sawlogs,MBF,Ash,175,50,404,516
+2015,Sawlogs,MBF,Aspen/Poplar,130,26,220,63
+2015,Sawlogs,MBF,Beech,81,10,179,56
+2015,Sawlogs,MBF,Cedar,118,19,180,125
+2015,Sawlogs,MBF,Hemlock,73,20,200,422
+2015,Sawlogs,MBF,Red Oak,291,50,580,572
+2015,Sawlogs,MBF,Red Pine,71,20,125,97
+2015,Sawlogs,MBF,Red/White Maple,185,23,313,498
+2015,Sawlogs,MBF,Spruce & Fir,205,36,280,532
+2015,Sawlogs,MBF,Sugar Maple,330,48,550,520
+2015,Sawlogs,MBF,White Birch,170,35,350,497
+2015,Sawlogs,MBF,White Oak,186,25,315,70
+2015,Sawlogs,MBF,White Pine,172,10,331,983
+2015,Sawlogs,MBF,Yellow Birch,276,52,397,493
+2015,Studwood,ton,Other Species,11,2,35,217
+2015,Studwood,ton,Spruce & Fir,30,4,54,539
+2015,Veneer,MBF,Aspen/Poplar,230,90,450,4
+2015,Veneer,MBF,Red Oak,537,200,1050,270
+2015,Veneer,MBF,Red/White Maple,430,350,600,10
+2015,Veneer,MBF,Sugar Maple,863,245,1313,198
+2015,Veneer,MBF,White Birch,576,100,999,199
+2015,Veneer,MBF,Yellow Birch,790,234,1436,196
+2016,Biomass,ton,All Species,2.3,0.37,6.5,594
+2016,Boltwood,MBF,Cedar,139,40,160,6
+2016,Boltwood,MBF,Red Oak,123,60,137,5
+2016,Boltwood,MBF,Red/White Maple,88,56,150,5
+2016,Boltwood,MBF,Sugar Maple,130,45,193,28
+2016,Boltwood,MBF,White Birch,171,25,300,249
+2016,Boltwood,MBF,Yellow Birch,143,45,202,27
+2016,Firewood,cord,All Species,24,8,40,581
+2016,Palletwood,MBF,Hardwood,83,15,250,543
+2016,Palletwood,MBF,Softwood,53,10,90,425
+2016,Pulpwood,ton,Aspen/Poplar,11,1,20,399
+2016,Pulpwood,ton,Cedar,9,1,20,78
+2016,Pulpwood,ton,Hemlock,5,0.96,11,328
+2016,Pulpwood,ton,Mixed Hardwood,8,2,22,1213
+2016,Pulpwood,ton,Red Pine,7,1,15,25
+2016,Pulpwood,ton,Spruce & Fir,7,2,20,354
+2016,Pulpwood,ton,White Pine,3,0.5,11,372
+2016,Sawlog,MBF,Ash,184,50,363,549
+2016,Sawlog,MBF,Aspen/Poplar,102,25,220,46
+2016,Sawlog,MBF,Beech,107,12,250,72
+2016,Sawlog,MBF,Cedar,116,30,200,129
+2016,Sawlog,MBF,Hemlock,71,20,150,404
+2016,Sawlog,MBF,Red Oak,283,80,550,534
+2016,Sawlog,MBF,Red Pine,41,15,170,81
+2016,Sawlog,MBF,Red/White Maple,155,40,331,581
+2016,Sawlog,MBF,Spruce & Fir,109,36,200,534
+2016,Sawlog,MBF,Sugar Maple,204,50,515,546
+2016,Sawlog,MBF,White Birch,195,50,324,528
+2016,Sawlog,MBF,White Oak,167,25,550,65
+2016,Sawlog,MBF,White Pine,169,40,292,947
+2016,Sawlog,MBF,Yellow Birch,200,40,375,480
+2016,Studwood,ton,Other Species,11,2,36,157
+2016,Studwood,ton,Spruce & Fir,23,5,33,382
+2016,Veneer,MBF,Ash,391,22,800,28
+2016,Veneer,MBF,Red Oak,630,200,1175,276
+2016,Veneer,MBF,Red/White Maple,512,150,882,16
+2016,Veneer,MBF,Sugar Maple,894,265,1324,197
+2016,Veneer,MBF,White Birch,580,225,1056,193
+2016,Veneer,MBF,White Oak,451,425,800,4
+2016,Veneer,MBF,Yellow Birch,1012,200,1340,193
+2017,Biomass,ton,All Species,1.51,0.38,4.76,658
+2017,Boltwood,MBF,Sugar Maple,102,80,130,10
+2017,Boltwood,MBF,White Birch,129,25,250,179
+2017,Boltwood,MBF,Yellow Birch,138,25,194,20
+2017,Firewood,cord,All Species,22,5,45,608
+2017,Palletwood,MBF,Hardwood,79,9,255,572
+2017,Palletwood,MBF,Softwood,46,10,207,446
+2017,Pulpwood,ton,Aspen/Poplar,9,1,25,377
+2017,Pulpwood,ton,Cedar,15,0.86,20,77
+2017,Pulpwood,ton,Hemlock,4,0.5,13,346
+2017,Pulpwood,ton,Mixed Hardwood,7,0.46,28,1249
+2017,Pulpwood,ton,Red Pine,7,1,14,16
+2017,Pulpwood,ton,Spruce & Fir,5,0.5,18,343
+2017,Pulpwood,ton,White Pine,3,0.2,9,383
+2017,Sawlog,MBF,Ash,169,45,450,510
+2017,Sawlog,MBF,Aspen/Poplar,78,25,205,64
+2017,Sawlog,MBF,Beech,94,20,260,33
+2017,Sawlog,MBF,Cedar,136,20,212,151
+2017,Sawlog,MBF,Hemlock,58,15,152,398
+2017,Sawlog,MBF,Red Oak,293,33,582,572
+2017,Sawlog,MBF,Red Pine,64,15,190,91
+2017,Sawlog,MBF,Red/White Maple,135,30,344,503
+2017,Sawlog,MBF,Spruce & Fir,122,25,285,550
+2017,Sawlog,MBF,Sugar Maple,183,35,502,482
+2017,Sawlog,MBF,White Birch,158,30,350,479
+2017,Sawlog,MBF,White Oak,162,20,400,61
+2017,Sawlog,MBF,White Pine,171,20,365,976
+2017,Sawlog,MBF,Yellow Birch,163,30,400,446
+2017,Studwood,ton,Other Species,12,2,36,202
+2017,Studwood,ton,Spruce & Fir,22,3,36,452
+2017,Veneer,MBF,Ash,419,25,800,21
+2017,Veneer,MBF,Aspen/Poplar,104,55,162,10
+2017,Veneer,MBF,Red Oak,687,200,1150,294
+2017,Veneer,MBF,Red/White Maple,463,150,867,16
+2017,Veneer,MBF,Sugar Maple,792,200,1313,227
+2017,Veneer,MBF,White Birch,591,225,1015,195
+2017,Veneer,MBF,White Oak,344,242,625,6
+2017,Veneer,MBF,Yellow Birch,960,275,1338,203
+2018,Biomass,ton,All Species,1.48,0.37,4,626
+2018,Boltwood,MBF,Sugar Maple,141,102,234,19
+2018,Boltwood,MBF,White Birch,158,25,284,214
+2018,Boltwood,MBF,Yellow Birch,136,45,196,28
+2018,Firewood,cord,All Species,24,10,50,672
+2018,Palletwood,MBF,Hardwood,92,11,275,461
+2018,Palletwood,MBF,Softwood,52,12,150,477
+2018,Pulpwood,ton,Aspen/Poplar,10,2,21,382
+2018,Pulpwood,ton,Cedar,15,1,22,78
+2018,Pulpwood,ton,Hemlock,4,1,10,365
+2018,Pulpwood,ton,Mixed Hardwood,8,2,18,1316
+2018,Pulpwood,ton,Red Pine,7,1,8,21
+2018,Pulpwood,ton,Spruce & Fir,6,1,16,378
+2018,Pulpwood,ton,White Pine,3,0.5,10,438
+2018,Sawlog,MBF,Ash,168,50,367,472
+2018,Sawlog,MBF,Aspen/Poplar,95,23,200,93
+2018,Sawlog,MBF,Beech,103,10,200,28
+2018,Sawlog,MBF,Cedar,141,33,190,139
+2018,Sawlog,MBF,Hemlock,69,20,140,448
+2018,Sawlog,MBF,Red Oak,311,100,621,543
+2018,Sawlog,MBF,Red Pine,59,20,180,107
+2018,Sawlog,MBF,Red/White Maple,126,26,337,477
+2018,Sawlog,MBF,Spruce & Fir,180,30,250,628
+2018,Sawlog,MBF,Sugar Maple,157,58,473,449
+2018,Sawlog,MBF,White Birch,143,30,340,448
+2018,Sawlog,MBF,White Oak,169,20,364,67
+2018,Sawlog,MBF,White Pine,172,45,300,1036
+2018,Sawlog,MBF,Yellow Birch,146,40,350,373
+2018,Studwood,ton,Other Species,16,2,40,193
+2018,Studwood,ton,Spruce & Fir,30,5,50,518
+2018,Veneer,MBF,Ash,323,200,620,21
+2018,Veneer,MBF,Aspen/Poplar,197,140,329,13
+2018,Veneer,MBF,Red Oak,648,250,1189,312
+2018,Veneer,MBF,Red/White Maple,426,156,1000,19
+2018,Veneer,MBF,Sugar Maple,835,200,1351,189
+2018,Veneer,MBF,White Birch,386,200,1119,160
+2018,Veneer,MBF,White Oak,571,250,1250,16
+2018,Veneer,MBF,Yellow Birch,792,245,1267,192
+2019,Biomass,ton,All Species,1.39,0.5,4,511
+2019,Boltwood,MBF,Red/White Maple,163,75,185,10
+2019,Boltwood,MBF,Sugar Maple,137,65,218,13
+2019,Boltwood,MBF,White Birch,158,35,390,207
+2019,Boltwood,MBF,Yellow Birch,187,50,275,27
+2019,Firewood,cord,All Species,25,10,42,616
+2019,Palletwood,MBF,Hardwood,97,13,325,549
+2019,Palletwood,MBF,Softwood,55,12,140,467
+2019,Pulpwood,ton,Aspen/Poplar,11,4,20,336
+2019,Pulpwood,ton,Cedar,15,0.5,20,59
+2019,Pulpwood,ton,Hemlock,5,1,9,398
+2019,Pulpwood,ton,Mixed Hardwood,9,2,19,1302
+2019,Pulpwood,ton,Red Pine,4,3,7,13
+2019,Pulpwood,ton,Spruce & Fir,5,1,16,511
+2019,Pulpwood,ton,White Pine,3,0.8,8,523
+2019,Sawlog,MBF,Ash,197,58,375,497
+2019,Sawlog,MBF,Aspen/Poplar,98,16,200,83
+2019,Sawlog,MBF,Beech,133,10,192,39
+2019,Sawlog,MBF,Cedar,104,33,175,115
+2019,Sawlog,MBF,Hemlock,67,25,123,479
+2019,Sawlog,MBF,Red Oak,265,75,525,545
+2019,Sawlog,MBF,Red Pine,72,20,150,70
+2019,Sawlog,MBF,Red/White Maple,157,40,342,469
+2019,Sawlog,MBF,Spruce & Fir,128,38,245,577
+2019,Sawlog,MBF,Sugar Maple,254,60,490,483
+2019,Sawlog,MBF,White Birch,158,50,370,466
+2019,Sawlog,MBF,White Oak,135,40,370,74
+2019,Sawlog,MBF,White Pine,175,32,311,1046
+2019,Sawlog,MBF,Yellow Birch,198,56,398,434
+2019,Studwood,ton,Other Species,8,2,44,157
+2019,Studwood,ton,Spruce & Fir,26,6,46,468
+2019,Veneer,MBF,Ash,493,298,700,30
+2019,Veneer,MBF,Red Oak,622,242,1150,314
+2019,Veneer,MBF,Red/White Maple,519,398,1020,31
+2019,Veneer,MBF,Sugar Maple,836,255,1400,182
+2019,Veneer,MBF,White Birch,592,250,1200,153
+2019,Veneer,MBF,White Oak,602,550,743,4
+2019,Veneer,MBF,Yellow Birch,804,250,1400,180
+2020,Biomass,ton,All Species,1.44,0.4,5,515
+2020,Boltwood,MBF,Red/White Maple,111,101,120,4
+2020,Boltwood,MBF,Sugar Maple,128,125,179,15
+2020,Boltwood,MBF,White Birch,168,45,298,158
+2020,Boltwood,MBF,Yellow Birch,123,93,154,15
+2020,Firewood,cord,All Species,24,10,40,556
+2020,Palletwood,MBF,Hardwood,89,10,225,581
+2020,Palletwood,MBF,Softwood,46,10,100,482
+2020,Pulpwood,ton,Aspen/Poplar,11,3,19,265
+2020,Pulpwood,ton,Cedar,13,1,21,69
+2020,Pulpwood,ton,Hemlock,4,0.46,10,404
+2020,Pulpwood,ton,Mixed Hardwood,9,2,16,1051
+2020,Pulpwood,ton,Red Pine,3,2,6,9
+2020,Pulpwood,ton,Spruce & Fir,6,0.96,15,404
+2020,Pulpwood,ton,White Pine,3,1,8,371
+2020,Sawlog,MBF,Ash,177,56,347,477
+2020,Sawlog,MBF,Aspen/Poplar,97,30,245,74
+2020,Sawlog,MBF,Beech,127,10,256,44
+2020,Sawlog,MBF,Cedar,101,20,175,134
+2020,Sawlog,MBF,Hemlock,61,25,125,409
+2020,Sawlog,MBF,Red Oak,251,100,480,487
+2020,Sawlog,MBF,Red Pine,62,20,147,67
+2020,Sawlog,MBF,Red/White Maple,115,50,330,455
+2020,Sawlog,MBF,Spruce & Fir,118,45,196,476
+2020,Sawlog,MBF,Sugar Maple,186,75,431,441
+2020,Sawlog,MBF,White Birch,133,50,320,417
+2020,Sawlog,MBF,White Oak,175,50,315,60
+2020,Sawlog,MBF,White Pine,168,65,251,915
+2020,Sawlog,MBF,Yellow Birch,150,50,331,379
+2020,Studwood,ton,Other Species,11,3,28,126
+2020,Studwood,ton,Spruce & Fir,22,5,35,396
+2020,Veneer,MBF,Ash,415,240,640,21
+2020,Veneer,MBF,Red Oak,656,200,1275,288
+2020,Veneer,MBF,Red/White Maple,513,158,1315,31
+2020,Veneer,MBF,Sugar Maple,824,300,1569,187
+2020,Veneer,MBF,White Birch,606,170,1050,168
+2020,Veneer,MBF,White Oak,490,375,1000,6
+2020,Veneer,MBF,Yellow Birch,856,250,1325,177
+2021,Biomass,ton,All Species,2,0.5,5,384
+2021,Boltwood,MBF,Ash,145,134,180,3
+2021,Boltwood,MBF,Sugar Maple,231,40,382,13
+2021,Boltwood,MBF,White Birch,195,25,405,168
+2021,Boltwood,MBF,Yellow Birch,295,40,312,12
+2021,Firewood,cord,All Species,21,8,40,483
+2021,Palletwood,MBF,Hardwood,99,16,262,430
+2021,Palletwood,MBF,Softwood,50,14,125,325
+2021,Pulpwood,ton,Aspen/Poplar,5,0.86,18,191
+2021,Pulpwood,ton,Cedar,19,6,20,51
+2021,Pulpwood,ton,Hemlock,3,0.75,9,353
+2021,Pulpwood,ton,Mixed Hardwood,5,1,15,972
+2021,Pulpwood,ton,Red Pine,2,2,3,5
+2021,Pulpwood,ton,Spruce & Fir,4,1,11,253
+2021,Pulpwood,ton,White Pine,3,0.45,7,222
+2021,Sawlog,MBF,Ash,213,60,374,415
+2021,Sawlog,MBF,Aspen/Poplar,83,40,190,76
+2021,Sawlog,MBF,Beech,119,40,175,47
+2021,Sawlog,MBF,Cedar,101,60,150,73
+2021,Sawlog,MBF,Hemlock,62,26,119,394
+2021,Sawlog,MBF,Red Oak,311,88,595,415
+2021,Sawlog,MBF,Red Pine,44,5,150,69
+2021,Sawlog,MBF,Red/White Maple,197,60,378,421
+2021,Sawlog,MBF,Spruce & Fir,148,29,225,432
+2021,Sawlog,MBF,Sugar Maple,353,95,535,398
+2021,Sawlog,MBF,White Birch,160,33,340,355
+2021,Sawlog,MBF,White Oak,122,25,274,52
+2021,Sawlog,MBF,White Pine,176,63,285,773
+2021,Sawlog,MBF,Yellow Birch,217,63,357,350
+2021,Studwood,ton,Other Species,10,0.93,29,112
+2021,Studwood,ton,Spruce & Fir,28,7,52,426
+2021,Veneer,MBF,Ash,309,220,670,30
+2021,Veneer,MBF,Aspen/Poplar,105,80,150,9
+2021,Veneer,MBF,Red Oak,634,250,1150,239
+2021,Veneer,MBF,Red/White Maple,635,350,969,12
+2021,Veneer,MBF,Sugar Maple,839,304,1850,139
+2021,Veneer,MBF,White Birch,576,200,1027,141
+2021,Veneer,MBF,Yellow Birch,781,200,1133,129
+2022,Biomass,ton,All Species,2,0.5,14,381
+2022,Boltwood,MBF,Red/White Maple,227,224,317,4
+2022,Boltwood,MBF,Sugar Maple,257,180,325,12
+2022,Boltwood,MBF,White Birch,237,75,433,134
+2022,Boltwood,MBF,Yellow Birch,257,138,284,4
+2022,Firewood,cord,All Species,28,2,55,429
+2022,Palletwood,MBF,Hardwood,96,25,300,400
+2022,Palletwood,MBF,Softwood,61,15,240,315
+2022,Pulpwood,ton,Aspen/Poplar,10,1,18,69
+2022,Pulpwood,ton,Cedar,15,11,18,4
+2022,Pulpwood,ton,Hemlock,3,1,9,315
+2022,Pulpwood,ton,Mixed Hardwood,8,0.5,23,763
+2022,Pulpwood,ton,Red Pine,13,3,14,6
+2022,Pulpwood,ton,Spruce & Fir,4,0.1,17,249
+2022,Pulpwood,ton,White Pine,3,1,35,264
+2022,Sawlogs,MBF,Ash,221,67,400,359
+2022,Sawlogs,MBF,Aspen/Poplar,59,32,220,45
+2022,Sawlogs,MBF,Beech,104,40,320,41
+2022,Sawlogs,MBF,Cedar,87,61,160,45
+2022,Sawlogs,MBF,Hemlock,67,25,146,365
+2022,Sawlogs,MBF,Red Oak,321,100,775,390
+2022,Sawlogs,MBF,Red Pine,33,17,100,54
+2022,Sawlogs,MBF,Red/White Maple,195,70,429,340
+2022,Sawlogs,MBF,Spruce & Fir,174,18,336,360
+2022,Sawlogs,MBF,Sugar Maple,315,110,583,342
+2022,Sawlogs,MBF,White Birch,213,60,600,326
+2022,Sawlogs,MBF,White Oak,147,45,250,37
+2022,Sawlogs,MBF,White Pine,202,10,524,626
+2022,Sawlogs,MBF,Yellow Birch,233,60,373,257
+2022,Studwood,ton,Other Species,11,4,29,41
+2022,Studwood,ton,Spruce & Fir,34,9,71,228
+2022,Veneer,MBF,Ash,389,248,600,12
+2022,Veneer,MBF,Aspen/Poplar,142,100,200,7
+2022,Veneer,MBF,Red Oak,679,275,1350,209
+2022,Veneer,MBF,Red/White Maple,876,600,1100,8
+2022,Veneer,MBF,Sugar Maple,706,383,1655,109
+2022,Veneer,MBF,White Birch,590,350,900,79
+2022,Veneer,MBF,Yellow Birch,712,217,1207,80
+2023,Biomass,ton,ALL SPECIES,2,0.25,5,511
+2023,Boltwood,MBF,ASH,136,118,141,3
+2023,Boltwood,MBF,SUGAR MAPLE,241,134,358,6
+2023,Boltwood,MBF,WHITE BIRCH,226,50,405,149
+2023,Boltwood,MBF,YELLOW BIRCH,163,115,285,7
+2023,Firewood,cord,ALL SPECIES,28,4,68,600
+2023,Palletwood,MBF,HARDWOOD,105,15,320,471
+2023,Palletwood,MBF,SOFTWOOD,92,5,260,374
+2023,Pulpwood,ton,ASPEN/POPLAR,12,5,35,98
+2023,Pulpwood,ton,CEDAR,19,4,25,40
+2023,Pulpwood,ton,HEMLOCK,4,0.8,14,197
+2023,Pulpwood,ton,MIXED HARDWOOD,9,2,26,926
+2023,Pulpwood,ton,RED PINE,2,2,4,3
+2023,Pulpwood,ton,SPRUCE & FIR,5,1,16,291
+2023,Pulpwood,ton,WHITE PINE,2,1,10,285
+2023,Sawlogs,MBF,ASH,248,45,500,384
+2023,Sawlogs,MBF,ASPEN/POPLAR,106,27,185,62
+2023,Sawlogs,MBF,BEECH,101,25,274,39
+2023,Sawlogs,MBF,CEDAR,77,50,160,21
+2023,Sawlogs,MBF,HEMLOCK,50,11,189,414
+2023,Sawlogs,MBF,RED OAK,285,50,700,465
+2023,Sawlogs,MBF,RED PINE,59,10,125,58
+2023,Sawlogs,MBF,RED/WHITE MAPLE,187,22,450,365
+2023,Sawlogs,MBF,SPRUCE & FIR,143,20,400,470
+2023,Sawlogs,MBF,SUGAR MAPLE,274,47,620,329
+2023,Sawlogs,MBF,WHITE BIRCH,257,48,500,328
+2023,Sawlogs,MBF,WHITE OAK,192,50,375,46
+2023,Sawlogs,MBF,WHITE PINE,229,4,500,859
+2023,Sawlogs,MBF,YELLOW BIRCH,259,40,400,278
+2023,Studwood,ton,OTHER SPECIES,12,2,44,71
+2023,Studwood,ton,SPRUCE & FIR,25,7,73,294
+2023,Veneer,MBF,ASH,434,225,760,24
+2023,Veneer,MBF,RED OAK,650,111,"1,333",255
+2023,Veneer,MBF,RED/WHITE MAPLE,513,230,900,7
+2023,Veneer,MBF,SUGAR MAPLE,578,323,"1,950",87
+2023,Veneer,MBF,WHITE BIRCH,621,300,900,87
+2023,Veneer,MBF,YELLOW BIRCH,573,150,"1,200",59
