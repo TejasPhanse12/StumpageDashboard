@@ -1,7 +1,6 @@
 # load libraries
 library(shiny)
 library(shinydashboard)
-library(ggplot2)
 
 # Updated Tables
 update_table <- data.frame()
